@@ -15,7 +15,7 @@
 #  include <winbase.h>
 #  include <stdlib.h>             // _sys_nerr
 #endif
-
+//你HAO!!!
 /* Forward declarations */
 static PyObject *
 _PyErr_FormatV(PyThreadState *tstate, PyObject *exception,
